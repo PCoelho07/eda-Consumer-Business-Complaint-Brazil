@@ -1,2 +1,3 @@
-# eda_Consumer_Business_Complaint_Brazil
-Exploratory data analysis into a consumer business complaints.
+# Exploratory data analysis into a consumer business complaints.
+Let's dive to the jupyter notebook. 
+Thanks! :).
